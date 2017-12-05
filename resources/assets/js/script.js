@@ -1,0 +1,1 @@
+document.querySelector('.icon-menu').addEventListener('click', function(){document.querySelector('.links').classList.toggle('toggle-menu');});
